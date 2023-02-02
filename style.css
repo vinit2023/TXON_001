@@ -18,8 +18,8 @@ body{
 
 
 section{
-    min-height: 100vh;
-    background: url(https://www.shutterstock.com/image-photo/masala-tea-popularly-known-india-chai-1706805625);
+    min-height: 90vh;
+    background: url(https://images.unsplash.com/photo-1619581073186-5b4ae1b0caad?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hhaXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
